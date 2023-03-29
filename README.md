@@ -1,8 +1,9 @@
 ### Hi there 👋, my name is Harsh Tiwari
 #### I am a Machine Learning Developer
-![I am a Machine Learning Developer](https://freeimage.host/i/HNsKjB1)
+![I am a Machine Learning Developer](https://user-images.githubusercontent.com/73635238/228441086-2fd18719-8490-448d-965a-869919f14b4c.png)
 
 I am an android developer and can do Web development also. I am also into machine learning and deep learning and can also make API's From Scratch
+
 
 # 💫 About Me:
 - 🔭 I’m currently working on AI Brainology<br>
