@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Harsh Tiwari
-#### I am a Machine Learning Developer
+#### I am a Student
 ![I am a Machine Learning Developer](./Harsh_Tiwari.png)
 
 
