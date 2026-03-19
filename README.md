@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Harsh Tiwari
 #### I am a Student
-![I am a Machine Learning Developer](./Harsh Tiwari.png)
+![I am a Data Scientist](./Harsh_Tiwari_banner.png)
 
 
 # 💫 About Me:
